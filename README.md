@@ -1,4 +1,4 @@
-# PowerPages
+# Power Pages
 Become Zero to Hero in Power Pages with Hands On Lab Exercises
 
 In line with the In a Day App series, this book aims to help end users and developers get to speed on their Power Pages journey through practical hands on exercises so that in a day they can build a fully functional Power Pages Site. The site that we create through out the book will allow us to expose the site to external companies so that they can upload the invoices of ongoing construction for approval and allows them to view the submitted invoices at a single place. 
